@@ -1,4 +1,4 @@
-# Friendex
+# friendex
 
 Friendex is a command-line module for tracking and managing friendships. It allows you to keep track of friends, the last time you spoke to them, and the topics of discussion. The module uses SQLite as a database to store friend information.
 
