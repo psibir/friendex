@@ -11,7 +11,7 @@ Friendex is a command-line module for tracking and managing friendships. It allo
 3. Install the required dependencies by running the following command:
    
    ```
-   pip install r- requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Usage
