@@ -1,0 +1,4 @@
+fuzzywuzzy==0.18.0
+Levenshtein==0.21.0
+python-Levenshtein==0.21.0
+rapidfuzz==3.0.0
