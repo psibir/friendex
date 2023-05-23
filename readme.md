@@ -79,4 +79,4 @@ Friendex uses an SQLite database to store friend information. By default, the da
 
 ## License
 
-This module is released under the MIT License. See the [license.txt](https://github.com/your-username/friendex/blob/main/LICENSE) file for more details.
+This module is released under the MIT License. See the [license](license.txt) file for more details.
